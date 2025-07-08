@@ -12,7 +12,7 @@
   
 
 ### 2024년도 대한전기학회 제15회 스마트 에너지 경진대회
-<img width="200" alt="Image" src="https://github.com/user-attachments/assets/0c3f2af6-a838-4462-9ae5-0cac8bc68749" />
+<img width="500" alt="Image" src="https://github.com/user-attachments/assets/0c3f2af6-a838-4462-9ae5-0cac8bc68749" />
 
 
 ## 수상
