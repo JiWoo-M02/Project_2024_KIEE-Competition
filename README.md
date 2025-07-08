@@ -12,7 +12,7 @@
   
 
 ### 2024년도 대한전기학회 제15회 스마트 에너지 경진대회
-<img width="600" alt="Image" src="https://github.com/user-attachments/assets/0c3f2af6-a838-4462-9ae5-0cac8bc68749" style="border: 0.5px solid blue;">
+<img width="600" alt="Image" style="border: 2px solid black;" src="https://github.com/user-attachments/assets/0c3f2af6-a838-4462-9ae5-0cac8bc68749">
 
 ### 2024년도 교내 캡스톤 디자인 경진대회
 <img width="600" alt="Image" src="https://github.com/user-attachments/assets/e7a0385b-4b73-436a-8fbc-01c561ebb637">
