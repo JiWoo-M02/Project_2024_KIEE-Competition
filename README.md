@@ -4,10 +4,15 @@
 
 
 
-## 포스터
   
+## 포스터
+
+
+
+  
+
 ### 2024년도 대한전기학회 제15회 스마트 에너지 경진대회
-[!<img width="5371" height="6196" alt="Image" src="https://github.com/user-attachments/assets/0c3f2af6-a838-4462-9ae5-0cac8bc68749" />](https://github.com/JiWoo-M02/Project_2024_KIEE-Competition-and-Capstone-Design-Competition/issues/1#issue-3211466785)
+[<img width="5371" height="6196" alt="Image" src="https://github.com/user-attachments/assets/0c3f2af6-a838-4462-9ae5-0cac8bc68749" />](https://github.com/JiWoo-M02/Project_2024_KIEE-Competition-and-Capstone-Design-Competition/issues/1#issue-3211466785)
 
 
 ## 수상
