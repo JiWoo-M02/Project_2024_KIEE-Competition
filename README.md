@@ -1,4 +1,4 @@
-# Project_2024_KIEE-Competition-and-Capstone-Design-Competition
+# Project_2024_KIEE-Competition
 
   본 프로젝트는 **2024년도 대한전기학회 제15회 스마트 에너지 경진대회**를 위해 진행되었습니다.
 
