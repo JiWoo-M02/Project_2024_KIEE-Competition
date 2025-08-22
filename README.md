@@ -30,8 +30,8 @@
 <br> <br>
 
 ## 🏆 수상
-1. 2024년도 대한전기학회 제15회 스마트 에너지 경진대회 – 장려상
-2. 2024년도 교내 캡스톤 디자인 경진대회 – 장려상
+1. 2024년도 대한전기학회 제15회 스마트 에너지 경진대회 장려상
+2. 2024년도 교내 캡스톤 디자인 경진대회 장려상
 
 <img height="350" alt="2024_전기학회" src="https://github.com/user-attachments/assets/26d5fd4f-9c93-4b1c-ae2e-26dfa93cd11a" />
 <img height="350" alt="2024_LINC" src="https://github.com/user-attachments/assets/a0d27947-cb7b-4097-88c5-6a5d659d3336" />
