@@ -1,21 +1,34 @@
-# Project_2024_KIEE-Competition
+## ⚡ GRU 시계열 예측 모델과 강화학습 기반의 향상된 전력 수요 예측 모델 개발
+본 프로젝트는 2024년도 대한전기학회 제15회 스마트 에너지 경진대회 출품을 위해 수행되었으며, 동시에 LINC 3.0 주관한 2024년도 교내 캡스톤 디자인 경진대회에도 참가하여 성과를 거두었습니다.
+본 연구의 목적은 GRU 기반 시계열 예측 모델과 DQN(Deep Q-Network) 강화학습을 결합하여 전력 수요 예측의 정확성과 효율성을 개선하는 것입니다. GRU는 장기 패턴을 학습하고, DQN은 실시간으로 단기 변동성과 이상치를 보정하여 상황에 맞는 최적의 모델을 선택합니다.
+최종적으로 제안된 모델은 기존 예측 대비 오차율을 약 22.4% 감소시켰으며, 전력망 운영 효율 개선과 비용 절감, 나아가 재생에너지 관리 및 스마트 그리드 최적화에도 기여할 수 있음을 확인했습니다.
+<br> <br>
 
-  본 프로젝트는 **2024년도 대한전기학회 제15회 스마트 에너지 경진대회**를 위해 진행되었습니다.
+## 📑 Key Features
+- GRU 기반 장기 예측 모델 + 단기 예측 모델 동시 구성
+- DQN 강화학습을 통한 최적 모델 실시간 선택
+- 대한민국 전력 수요 데이터(2013~2021, 공공데이터) 활용 학습
+- 전력 수요 단기 변동성(이상치) 및 장기 패턴 동시 반영
+- 기존 LSTM 및 GRU 모델 대비 향상된 예측 성능 및 효율성 확보
+- 평균 오차율 약 22.4% 감소 (장기 예측 1.56%, 단기 예측 1.84% → 제안된 모델 1.21%)
+<br> <br>
 
-<br>
-<br>
-<br>
+## 🛠️ Skills
+- Python, PyTorch, TensorFlow
+- 시계열 데이터 처리 및 EDA (Exploratory Data Analysis)
+- GRU, LSTM 기반 예측 모델 설계 및 학습
+- 강화학습 (DQN, ε-greedy, 경험 재생) 적용
+- 데이터 전처리: 슬라이딩 윈도우 기법, 정규화
+- 모델 성능 평가 지표: sMAPE (Symmetric Mean Absolute Percentage Error)
+<br> <br>
 
-## 포스터
-| 2024년도 대한전기학회 제15회 스마트 에너지 경진대회 | 2024년도 교내 캡스톤 디자인 경진대회 |
-| -------------------------------------------------------- | ----------------------------------- |
-| <p align="center"> <img height="500" src="https://github.com/user-attachments/assets/2822442b-f5a8-4bb2-abab-b64616e5c3bf" /> </p> | <p align="center"> <img height="500" src="https://github.com/user-attachments/assets/e7a0385b-4b73-436a-8fbc-01c561ebb637" /> </p> |
-<br>
-<br>
-<br>
+## 🖼️ 포스터
+2024년도 대한전기학회 제15회 스마트 에너지 경진대회	2024년도 교내 캡스톤 디자인 경진대회
+<p align="center"><img height="500" src="https://github.com/user-attachments/assets/2822442b-f5a8-4bb2-abab-b64616e5c3bf" /></p>	<p align="center"><img height="500" src="https://github.com/user-attachments/assets/e7a0385b-4b73-436a-8fbc-01c561ebb637" /></p>
+<br> <br>
 
-## 수상
-1. 2024년도 대한전기학회 제15회 스마트 에너지 경진대회 장려상
-2. 2024년도 교내 캡스톤 디자인 경진대회 장려상
-<img height="350" alt="2024_전기학회" src="https://github.com/user-attachments/assets/26d5fd4f-9c93-4b1c-ae2e-26dfa93cd11a" />
-<img height="350" alt="2024_LINC" src="https://github.com/user-attachments/assets/a0d27947-cb7b-4097-88c5-6a5d659d3336" />
+## 🏆 수상
+1. 2024년도 대한전기학회 제15회 스마트 에너지 경진대회 – 장려상
+2. 2024년도 교내 캡스톤 디자인 경진대회 – 장려상
+
+<img height="350" alt="2024_전기학회" src="https://github.com/user-attachments/assets/26d5fd4f-9c93-4b1c-ae2e-26dfa93cd11a" /> <img height="350" alt="2024_LINC" src="https://github.com/user-attachments/assets/a0d27947-cb7b-4097-88c5-6a5d659d3336" />
